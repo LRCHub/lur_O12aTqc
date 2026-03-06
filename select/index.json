@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ウェカピポ",
+  "base_artist": "SOUL'd OUT",
+  "createdAt": "2026-03-06T03:48:08.451621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウェカピポ",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/01_ウェカピポ_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウェカピポ",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/02_ウェカピポ_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウェカピポ",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/03_ウェカピポ_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウェカピポ",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/04_ウェカピポ_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウェカピポ",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/05_ウェカピポ_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウェカピポ ～ TinyVoice,Production Remix",
+      "artist": "SOUL’d OUT",
+      "has_synced": false,
+      "path": "select/06_ウェカピポ_~_TinyVoice,Production_Remix_SOUL’d_OUT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウェカピポ",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/pl_01_ウェカピポ_SOUL'd_OUT.txt"
+    }
+  ]
+}
